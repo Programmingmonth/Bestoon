@@ -12,4 +12,4 @@ A simple Income and Expense system.
 
 
 ## To Do:
-- [ ] Models
+- [x] Models
