@@ -12,4 +12,7 @@ A simple Income and Expense system.
 
 
 ## To Do:
-- [x] Models
+- [x] models
+- [x] gitignore
+- [x] license
+- [x] requirements.txt
