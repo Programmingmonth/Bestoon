@@ -8,4 +8,8 @@ A simple Income and Expense system.
 3. clone `https://github.com/Programmingmonth/bestoon.git`
 
 ## How to runnig code:
--[x]
+1. typing terminal `python3 manage.py runserver  8009`
+
+
+## To Do:
+-[x] Models
