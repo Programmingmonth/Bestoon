@@ -3,4 +3,9 @@
 A simple Income and Expense system.
 
 ## How to installing:
-1.
+1. installing `python3` and `django`
+2. installing `virtualenv`
+3. clone `https://github.com/Programmingmonth/bestoon.git`
+
+## How to runnig code:
+-[x]
