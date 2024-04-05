@@ -1,18 +1,25 @@
-# Bestoon 
+# Bestoon
 
 A simple Income and Expense system.
 
-## How to installing:
-1. installing `python3` and `django`
-2. installing `virtualenv`
-3. clone `https://github.com/Programmingmonth/bestoon.git`
+## How to run
 
-## How to runnig code:
-1. typing terminal `python3 manage.py runserver  8009`
+To run Bestoon in development model Just user steps below:
 
+1. Install `python3`, `pip`, `virtualenv` in your system.
+2. Clone the project `https://github.com/Programmingmonth/bestoon`.
+3. Make development environment ready using commands below;
 
-## To Do:
-- [x] models
-- [x] gitignore
-- [x] license
-- [x] requirements.txt
+```bash
+git clone https://github.com/Programmingmonth/bestoon
+virtualenv -p python3 build # Create virtualenv named build
+source build/bin//activate
+pip install -r requirements.txt
+mv bestoon/settings.py.sample bestoon/settings.py
+python manage.py migrate # Create database tables
+```
+
+4. Run `Bestoon` using `python manage.py runserver`
+5. Go to [http://localhost:8000](http://localhost:8000) to see your Bestoon version.
+
+   
