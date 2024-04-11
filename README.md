@@ -8,4 +8,5 @@ running
 
 ##TODO
 - [x] create models 
+- [x] .gitignore
 
