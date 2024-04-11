@@ -9,8 +9,3 @@ running
 ##TODO
 - [x] create models 
 - [x] .gitignore
-
-<div>
-    <a href="http://Google.com">Google<a/>
-<div/>
-
